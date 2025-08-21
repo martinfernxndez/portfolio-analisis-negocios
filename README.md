@@ -10,7 +10,7 @@ Este repositorio reúne mis **apuntes, proyectos y casos prácticos** de la espe
 ## 🚀 Progreso de la Especialización
 
 ### 📘 Módulo 1: Fundamentos de Análisis de Negocios
-- ✅ Apuntes completos con emojis [aquí](./modulo-1/apuntes/modulo1_apuntes.md)
+- ✅ Apuntes del módulo [aquí](./modulo-1/apuntes/modulo1_apuntes.md)
 - ✅ Examen parcial aprobado (adjunto en PDF)
 - ✅ Caso práctico: **Optimizar el inventario de sabores para mejorar la rentabilidad**  
   [Ver caso](./modulo-1/practicas/caso_happy_hat.md)
