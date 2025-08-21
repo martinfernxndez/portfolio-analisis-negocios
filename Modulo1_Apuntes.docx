@@ -1,0 +1,76 @@
+# 📘 Apuntes Módulo 1 – Análisis de Negocios
+
+## 🔹 Introducción
+El análisis de negocios consiste en identificar necesidades, proponer soluciones y acompañar la implementación de cambios para mejorar procesos, ingresos, rentabilidad o reducir riesgos.  
+
+---
+
+## 🔹 Rol del Analista de Negocios
+- Entender necesidades del cliente.
+- Traducir problemas en métricas medibles.
+- Recomendar cambios rentables en procesos.
+- Medir impacto posterior.
+
+---
+
+## 🔹 Tipos de Métricas Empresariales
+1. **Métricas de Ingresos**  
+   - Ventas totales.  
+   - Ticket promedio.  
+   - Crecimiento de ingresos.
+
+2. **Métricas de Rentabilidad**  
+   - Margen bruto.  
+   - Margen operativo.  
+   - TIR (Tasa Interna de Retorno).
+
+3. **Métricas de Riesgo**  
+   - Volatilidad.  
+   - Error de seguimiento.  
+   - Probabilidad de impago.
+
+---
+
+## 🔹 Clasificación según Dinámica
+- **Métricas tradicionales**: estáticas, resumen histórico (ejemplo: ingresos anuales).  
+- **Métricas dinámicas**: permiten seguimiento en tiempo real o por periodos cortos (ejemplo: flujo de caja semanal).  
+
+---
+
+## 🔹 Caso Práctico: Happy Hat
+📍 Cadena de 500 tiendas de yogur en EE.UU.  
+- Problema: ingresos por tienda bajaron 10% pese a visitas constantes.  
+- Sospechas:  
+  - Mucho inventario tirado.  
+  - Faltan sabores anunciados.  
+  - Quejas por horarios de cierre.  
+- Competencia: supermercados 24hs.  
+
+### Datos disponibles:
+- 4 años de datos de caja por transacción.  
+- 4 años de entregas semanales de insumos.  
+- Datos contables: ingresos, COGS, inventario.  
+
+---
+
+## 🔹 Ejemplo de Métrica Extraída
+**% de disponibilidad de sabores anunciados en menú**  
+
+- **Tipo**: Métrica de ingresos (impacta ventas directas).  
+- **Clasificación**: Dinámica (puede medirse por semana/mes).  
+- **Dato usado**: transacciones + entregas de inventario.  
+- **Cambio propuesto**: optimizar gestión de inventario para asegurar disponibilidad.  
+
+---
+
+## 🔹 Puntos Clave de Revisión
+- Elegir métrica clara y empresarial ✔  
+- Clasificarla correctamente (ingresos, rentabilidad o riesgo) ✔  
+- Indicar si es tradicional o dinámica + justificar ✔  
+- Derivarla de datos disponibles ✔  
+- Proponer cambio de proceso alineado con problemas del cliente ✔  
+- Explicar cómo la métrica permite medir el éxito del cambio ✔  
+
+---
+
+✅ **Conclusión**: Una buena métrica debe ser *relevante, medible, accionable y vinculada directamente con el proceso de negocio*.
